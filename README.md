@@ -30,7 +30,7 @@ Additionally, the dailyData.txt file will contain the calculated daily data.
 
 
 # Sample Output
-```
+´´´
 Enter the road length in km: 100
 Enter the CPT power (between 10-50 kW): 30
 Enter the CPT's percentage on the road (between 10-100%): 20
@@ -38,7 +38,7 @@ Calculated KW Energy: 3600.00
 Total Car Count for the year: 23259890 Cars
 Total KW Profit for the year: 83975496000.00 Kw
 Total Electric Profit for the year: 1,057,661,441.53 TL
-```
+´´´
 
 # Note
 - For the program to work correctly, the prices.csv file must contain valid and accurate data.
